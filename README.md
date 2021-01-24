@@ -23,4 +23,4 @@ Inspired by: https://www.youtube.com/channel/UCR-zOCvDCayyYy1flR5qaAg
 Supporters: Coming soon.
 
 
-Version: 0.0.9 (ALPHA-DEV)
+Version: 0.1.0 (ALPHA)
