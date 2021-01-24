@@ -15,8 +15,11 @@ OBS: Remember that this is A PYTHON vesion not a JS version.
 Credits:
 
 Scripter: matthew956
+
 Logo Maker: matthew956
+
 Inspired by: https://www.youtube.com/channel/UCR-zOCvDCayyYy1flR5qaAg
+
 Supporters: Coming soon.
 
 
