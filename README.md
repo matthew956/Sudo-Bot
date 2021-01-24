@@ -1,5 +1,5 @@
 # Sudo-Bot
-A simple bot for discord. Please read the README file.
+A simple bot for discord. 
 
 If you want to activate the bot please create an application on https://discord.com/developers/applications/ and replace the client.run(os.getenv('TOKEN')) with client.run('put your token here') or simple just create an .env file inside the folder and edit it and paste this simple code: TOKEN=put your token here.
 
